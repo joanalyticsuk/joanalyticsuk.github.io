@@ -1377,6 +1377,11 @@ body {
 .dropup .dropdown-toggle::after {
   display: none;
 }
+@media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
+  .card-wrapper {
+    flex: auto!important;
+  }
+}
 .cid-r4H4WNhNsT .navbar {
   background: #ffffff;
   transition: none;
@@ -2022,33 +2027,16 @@ body {
   text-align: left;
   color: #009688;
 }
-.cid-r5BzG7JZRT {
-  padding-top: 15px;
-  padding-bottom: 15px;
+.cid-rbiG6kwXZS {
+  padding-top: 30px;
+  padding-bottom: 60px;
   background-color: #ffffff;
 }
-.cid-r5BzG7JZRT .title {
-  margin-bottom: 2rem;
-}
-.cid-r5BzG7JZRT .mbr-section-subtitle {
+.cid-rbiG6kwXZS .mbr-text,
+.cid-rbiG6kwXZS blockquote {
   color: #767676;
 }
-.cid-r5BzG7JZRT a:not([href]):not([tabindex]) {
-  color: #fff;
-  border-radius: 3px;
-}
-.cid-r5BzG7JZRT a.btn-white:not([href]):not([tabindex]) {
-  color: #333;
-}
-.cid-r5BzG7JZRT .multi-horizontal {
-  flex-grow: 1;
-  -webkit-flex-grow: 1;
-  max-width: 100%;
-}
-.cid-r5BzG7JZRT .input-group-btn {
-  display: block;
+.cid-rbiG6kwXZS .mbr-text P {
   text-align: center;
-}
-.cid-r5BzG7JZRT H2 {
   color: #767676;
 }
