@@ -1784,6 +1784,25 @@ body {
   padding-bottom: 135px;
   background-image: url("../../../assets/images/chart-close-up-data-590023-2000x1325.jpg");
 }
+.cid-rboAu4GOVM {
+  padding-top: 15px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-rboAu4GOVM .mbr-text,
+.cid-rboAu4GOVM blockquote {
+  color: #767676;
+}
+.cid-rboAu4GOVM .mbr-text B {
+  color: #a2a2a2;
+}
+.cid-rboAu4GOVM .mbr-text {
+  text-align: center;
+  color: #009688;
+}
+.cid-rboAu4GOVM .mbr-text I {
+  color: #d5a923;
+}
 .cid-r4HxQKNTrj {
   padding-top: 15px;
   padding-bottom: 0px;
@@ -1978,7 +1997,7 @@ body {
   line-height: 40px;
   transition: all .2s;
   color: #ffffff;
-  background: #149dcc;
+  background: #d5a923;
   width: 40px;
   height: 40px;
   border-radius: 50%;
